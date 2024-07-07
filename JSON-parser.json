@@ -1,0 +1,177 @@
+{
+  "Personal Info": {
+    "Name": "Lalithdharan G M",
+    "Degree": "B.Tech. - CSE - Big Data Analytics",
+    "Phone": "+91-7010117171",
+    "Email": "gl5369@srmist.edu.in",
+    "Location": "Chennai, Tamil Nadu, India - 600089",
+    "LinkedIn": "https://www.linkedin.com/in/lalithdharan/",
+    "Skills": [
+      "Data Science",
+      "Machine Learning",
+      "Power BI",
+      "Tableau",
+      "Excel",
+      "Python",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Statistics",
+      "Javascript"
+    ]
+  },
+  "Summary": "I'm a computer engineering student specializing in Big Data analytics, eager to apply my skills and collaborate with talented teams at exceptional organizations. I believe in leveraging my capabilities to become a valuable asset and contribute to the organization's growth.",
+  "Education": [
+    {
+      "Period": "2021 - 2025",
+      "Institution": "SRM Institute of Science & Technology, Ramapuram",
+      "Degree/Qualification": "B.Tech. - CSE - Big Data Analytics",
+      "CGPA/Percentage": "9.07 / 10"
+    },
+    {
+      "Period": "2021",
+      "Institution": "Sri Vijay Vidyalaya, Hosur",
+      "Degree/Qualification": "12th | TNBHSE",
+      "CGPA/Percentage": "86.80 / 100"
+    },
+    {
+      "Period": "2019",
+      "Institution": "Sri Chaitanya Techno School, Hosur",
+      "Degree/Qualification": "10th | CBSE",
+      "CGPA/Percentage": "83 / 100"
+    }
+  ],
+  "Internships": [
+    {
+      "Period": "12 Mar, 2024 - Present",
+      "Company": "Mentorness",
+      "Industry": "IT / Computers - Software",
+      "Role": "Data Analyst",
+      "Key Skills": [
+        "Data Analysis",
+        "Power BI",
+        "Data cleaning",
+        "Data Manipulation",
+        "Data Representation",
+        "Pandas",
+        "MySQL",
+        "Excel",
+        "Python",
+        "Data Visualization"
+      ],
+      "Description": "Throughout my internship, I dedicatedly cleaned and curated over 100 datasets, prioritizing data integrity to ensure reliability for subsequent analysis. Leveraging powerful visualization tools, I transformed raw data into compelling visuals, facilitating better comprehension and informed decision-making processes. This hands-on experience significantly bolstered my proficiency in data cleaning and visualization, equipping me with the technical skills necessary for real-world data analysis roles."
+    }
+  ],
+  "Projects": [
+    {
+      "Period": "01 Jan, 2024 - 02 Mar, 2024",
+      "Title": "Road Lane Detection System",
+      "Key Skills": ["DeepLearning", "openCV", "Matplotlib", "Numpy", "Python"],
+      "Link": "https://github.com/lalithdharan/Road_lane_Detection",
+      "Description": "Developed deep learning models for road lane detection, emphasizing skills in data preprocessing and model optimization. Acquired practical experience in handling diverse datasets, implementing deep learning algorithms, and interpreting model outcomes."
+    },
+    {
+      "Period": "01 Dec, 2023 - 01 Jan, 2024",
+      "Title": "Real Estate Price Prediction",
+      "Key Skills": [
+        "machinelearning",
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "seaborn",
+        "python",
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "Link": "https://github.com/lalithdharan/Real-Estate-price-prediction",
+      "Description": "Implemented regression models for real estate price prediction, refining skills in data preprocessing and feature engineering. Gained practical experience handling large datasets, implementing machine learning algorithms, and interpreting results deepening understanding of regression techniques in predicting property prices."
+    },
+    {
+      "Period": "10 Oct, 2023 - 11 Nov, 2023",
+      "Title": "Sales Insights Dashboard",
+      "Key Skills": ["powerBI", "SQL", "Python", "Excel"],
+      "Link": "https://drive.google.com/file/d/1-NNU0VKRSu8T9AbcQChDnWceJphnbxTQ/view?usp=sharing",
+      "Description": "Working on the Sales Insights Project has significantly enhanced my data science skills, particularly in data collection, cleaning, and exploratory analysis. I learned to create impactful visualizations and build predictive models to forecast sales trends. The project taught me how to translate complex data into actionable business insights and recommendations."
+    }
+  ],
+  "Assessments/Certifications": [
+    {
+      "Title": "SQL",
+      "Key Skills": ["DataBaseManagement", "SQL"],
+      "Description": "I have acquired proficiency in database management and SQL query optimization, ensuring efficient data handling and analysis for diverse projects."
+    },
+    {
+      "Title": "MS Excel",
+      "Key Skills": ["MS Excel"],
+      "Description": "I have mastered data cleaning, analysis, and all Excel formulas, facilitating thorough data preparation and insightful analysis."
+    },
+    {
+      "Title": "Math for Data Science",
+      "Key Skills": [
+        "Probability",
+        "statistics",
+        "python",
+        "linear algebra",
+        "calculus"
+      ],
+      "Description": "I have acquired comprehensive knowledge of the mathematics essential to data science, including probability theory, statistical analysis, linear algebra, calculus, and optimization techniques, enabling me to effectively analyze and interpret data to derive meaningful insights and make informed decisions."
+    },
+    {
+      "Title": "Python for Data Science",
+      "Key Skills": [
+        "python",
+        "numpy",
+        "matplotlib",
+        "pandas",
+        "seaborn",
+        "machine learning"
+      ],
+      "Description": "Learnt about python and libraries (matplotlib, numpy, pandas, seaborn) and machine learning approaches."
+    },
+    {
+      "Title": "IBM - Data Science",
+      "Key Skills": ["data science", "data analytics", "data cleaning"],
+      "Description": "The IBM Data Science course offers practical training in data analysis, machine learning, and Python programming, providing a strong foundation for aspiring data scientists."
+    },
+    {
+      "Title": "Project Management",
+      "Key Skills": ["Project Management Skills", "Project Planning"],
+      "Description": "The project management course you took provided comprehensive training in planning, executing, and overseeing projects, ensuring timely delivery within scope and budget. It emphasized practical skills, methodologies, and tools essential for successful project management."
+    }
+  ],
+  "Seminars/Trainings/Workshops": [
+    {
+      "Date": "07 Mar, 2024",
+      "Title": "Fullstack App Development using Django",
+      "Institution": "SRM Institute of Science & Technology, Ramapuram",
+      "Key Skills": ["Django(Basics)"],
+      "Description": "Learnt about Fullstack App Development using Django in the hands-on workshop. Learned to build robust web applications with Python, learnt both front-end and back-end development."
+    }
+  ],
+  "Extra Curricular Activities": [
+    "Basketball",
+    "NSS-member",
+    "Campus life - member"
+  ],
+  "Personal Interests/Hobbies": [
+    "basketball",
+    "Volunteering",
+    "networking activities"
+  ],
+  "Web Links/IMs": {
+    "Skype": "https://join.skype.com/invite/AsJxH0aiJPQS",
+    "Github": "https://github.com/lalithdharan",
+    "Kaggle": "https://www.kaggle.com/lalithdharan"
+  },
+  "Personal Details": {
+    "Gender": "Male",
+    "Marital Status": "Single",
+    "Current Address": "3A 1st floor 9th street Chowdhury nagar, valasaravakam, Chennai, Tamil Nadu, India - 600089",
+    "Date of Birth": "24 Mar, 2004",
+    "Known Languages": ["English", "Tamil", "Telugu", "Hindi"],
+    "Permanent Address": "C 26/10 TNHB Colony, Bagalur Hudco, Hosur, Krishnagiri, Hosur, Tamil Nadu, India - 635109",
+    "Phone Numbers": ["+91-7010117171", "+91-9003279899"],
+    "Emails": ["gl5369@srmist.edu.in", "Lalithdharan24@gmail.com"]
+  }
+}
